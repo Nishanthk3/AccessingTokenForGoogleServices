@@ -1,1 +1,3 @@
 /target
+/src/main/resources/googleServicesAPIConfig.properties
+/src/main/resources/refreshToken.properties
